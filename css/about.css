@@ -13,6 +13,10 @@ body {
   margin: 0;
 }
 
+a:hover {
+  color: white;
+}
+
 h1 {
   font-family: "Bree", regular;
   margin: auto;
@@ -56,6 +60,7 @@ nav li {
 a {
   style: none;
   text-decoration: none;
+  color: black;
 }
 
 h1 {
@@ -141,6 +146,7 @@ h4 {
     gap: 1rem;
     margin: auto;
     justify-content: center;
+    margin: 1rem;
 }
 
 .shop img {
