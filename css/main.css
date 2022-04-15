@@ -109,7 +109,6 @@ footer {
   display: flex;
   padding: 1rem;
   gap: .5rem;
-  }
 }
 
 h3 {
@@ -187,3 +186,4 @@ footer {
   .info {
     text-align: right;
   }
+}
