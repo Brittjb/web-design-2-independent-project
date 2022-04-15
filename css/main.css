@@ -51,14 +51,12 @@ nav ul {
 }
 
 nav li {
-  padding: 1rem;
   font-size: 1.25rem;
 }
 
 a {
-  style: none;
+  list-style: none;
   text-decoration: none;
-
 }
 
 .paragraph {
@@ -165,7 +163,7 @@ footer {
   padding: 1rem 2rem;
 }
 
-@media only screen and (min-width: 700px) {
+@media only screen and (min-width: 40em) {
 
   header {
     flex-direction: row;
@@ -176,7 +174,7 @@ footer {
   }
 }
 
-@media only screen and (min-width: 1000px) {
+@media only screen and (min-width: 80em) {
 
   footer {
     flex-direction: row;
